@@ -25,15 +25,6 @@ body {
   box-shadow: 0 15px 40px rgba(0,0,0,0.3);
 }
 
-/* ===== HEAD NAME ===== */
-.headname {
-  text-align: center;
-  margin-top: -80px;
-  margin-bottom: 50px;
-  font-size: 2.2rem;
-  text-shadow: 2px 2px 6px rgb(17, 20, 16);
-}
-
 /* ===== BACKGROUND BLUR ===== */
 .bg {
   position: fixed;
